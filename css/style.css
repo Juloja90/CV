@@ -1,11 +1,11 @@
 body{
     background-image: url(../images/Fondo1.jpg);
-    background-size:1600px 800px;
+    background-size:1900px 900px;
 }
 header
 {
     background-image: url(../images/Banner.png);
-    background-size:1600px 210px;
+    background-size:1760px 210px;
     padding: 15px;
     text-align: center;
     vertical-align:middle;
